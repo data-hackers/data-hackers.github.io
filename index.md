@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Hello World
 
-You can use the [editor on GitHub](https://github.com/data-hackers/data-hackers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The goal this section is to share the most simple "Hello World" ML programs that actually do something useful. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Would you have survived the titanic?
+A great introduction to ML workflow using Azure Machine Learning platform, by the end of this example you will create a Model to predict if you would have survived the titanic. 
+[Part 1](https://channel9.msdn.com/Blogs/raw-tech/Using-Azure-Machine-Learning-to-Predict-Who-Will-Survive-the-Titanic-Part-1 Part 1)
+[Part 2](https://channel9.msdn.com/Blogs/raw-tech/Using-Azure-Machine-Learning-to-Predict-Who-Will-Survive-the-Titanic-Part-2)
 
-### Markdown
+## User Based Recommender system in 5 Minutes
+A simple "People who like X also like Y" Recommender system example
+[https://mahout.apache.org/users/recommender/userbased-5-minutes.html]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Toolbox
 
-```markdown
-Syntax highlighted code block
+# Use Cases
 
-# Header 1
-## Header 2
-### Header 3
+# Snippets
 
-- Bulleted
-- List
+# Data Muscle 
 
-1. Numbered
-2. List
+## A visual guide to machine learning 
+a great guide to the concept of [Classification] using an interavitve visualisation of how ML solves ... 
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/data-hackers/data-hackers.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Bookshelf
