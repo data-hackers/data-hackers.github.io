@@ -4,7 +4,7 @@ The goal this section is to share the most simple "Hello World" ML programs that
 
 ## Would you have survived the titanic?
 A great introduction to ML workflow using Azure Machine Learning platform, by the end of this example you will create a Model to predict if you would have survived the titanic. 
-[Part 1](https://channel9.msdn.com/Blogs/raw-tech/Using-Azure-Machine-Learning-to-Predict-Who-Will-Survive-the-Titanic-Part-1 Part 1)
+[Part 1](https://channel9.msdn.com/Blogs/raw-tech/Using-Azure-Machine-Learning-to-Predict-Who-Will-Survive-the-Titanic-Part-1)
 [Part 2](https://channel9.msdn.com/Blogs/raw-tech/Using-Azure-Machine-Learning-to-Predict-Who-Will-Survive-the-Titanic-Part-2)
 
 ## User Based Recommender system in 5 Minutes
