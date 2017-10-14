@@ -1,0 +1,9 @@
+{
+    "name" : "reversim-lecture-scorer",
+    "version" : "1.0.0",
+    "main" : "app.js",
+    "dependencies": {
+        "natural": "*",
+        "tiny-csv": "*"
+    }
+}

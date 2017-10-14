@@ -1,0 +1,2 @@
+Pillow==2.9.0
+clarifai==2.0.20
