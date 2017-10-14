@@ -1,5 +1,9 @@
 
-a short you can see the original slides [Here](https://www.slideshare.net/secret/v8bnKPAIm9mNkq). the source code for the examples are attached to the github project and available here - https://github.com/data-hackers/data-hackers.github.io
+This page adds more resources and examples for my talk "From developer To Datahacker"
+
+you can see the original slides [Here](https://www.slideshare.net/secret/v8bnKPAIm9mNkq). 
+
+The source code for the examples are attached to the github project and available here - [https://github.com/data-hackers/data-hackers.github.io](https://github.com/data-hackers/data-hackers.github.io)
 
 # Hello World
 
@@ -61,6 +65,9 @@ for example
 * [a great video introduction to ML from googole](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 * [Deep learnign without a PHD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) 
 * [a great article summarizing the most basic ML terminology you must know](https://www.allanalytics.com/author.asp?section_id=3926&doc_id=282483)
-* some cheat sheets on how to choose the right model - (http://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/),(http://scikit-learn.org/stable/tutorial/machine_learning_map/),(https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa)
+* some cheat sheets on how to choose the right model -
+** [ML for dummies](http://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/)
+** [skLearn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+** [lab41](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa)
 * [How to fail with ML](https://www.youtube.com/watch?v=_JnERKNat4w)
 * [ML Gremlins](https://www.youtube.com/watch?v=tleeC-KlsKA) - a great talk!
