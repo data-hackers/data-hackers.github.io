@@ -3,7 +3,7 @@ This page adds more resources and examples for my talk "From developer To Dataha
 
 you can see the original slides [Here](https://www.slideshare.net/secret/v8bnKPAIm9mNkq). 
 
-The source code for the examples are attached to the github project and available here - [https://github.com/data-hackers/data-hackers.github.io](https://github.com/data-hackers/data-hackers.github.io)
+The source code for the examples are attached to the github project and available here - [github.com/data-hackers/data-hackers.github.io](https://github.com/data-hackers/data-hackers.github.io)
 
 # Hello World
 
